@@ -1,0 +1,7 @@
+{
+  "name": "CANDELARIACITY",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
